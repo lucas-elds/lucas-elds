@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,angular,py,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,py,linux)](https://skillicons.dev)
