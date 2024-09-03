@@ -1,6 +1,6 @@
 ## Olá, me chamo Lucas 👋
 
-- 🔭 Atualmente sou estudante do curso de Sistemas para Internet no IFPB
+- 🔭 Sou estudante do curso de Sistemas para Internet no IFPB
 - 🌱 Atualmente aprendendo a utilizar Angular
 - ⚡ Procurando aprender cada vez mais sobre Front-end
 
