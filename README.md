@@ -4,4 +4,4 @@
 - 🌱 Atualmente aprendendo a utilizar Angular
 - ⚡ Procurando aprender cada vez mais sobre Front-end
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username&theme=dracula=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
