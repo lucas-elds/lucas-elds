@@ -3,6 +3,5 @@
 - 🔭 Sou estudante do curso de Sistemas para Internet no IFPB
 - ⚡ Procurando aprender cada vez mais sobre Front-end
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,py,linux)](https://skillicons.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-elds&hide=ruby,kotlin,go)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,angular,py,linux)](https://skillicons.dev)
