@@ -7,6 +7,3 @@
 ## 💡 Tecnologias que uso e estudo
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,angular)](https://skillicons.dev)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-elds&hide=ruby,kotlin,go&theme=chartreuse-dark)
-
